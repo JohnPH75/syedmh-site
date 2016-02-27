@@ -118,6 +118,7 @@ nav ul	{
 
 nav ul a	{
 	color: #fff;
+    text-shadow: 1px 1px 1px #FF0000;
 	padding: 3px 10px;
 	border-bottom: 2px solid transparent;
 	-webkit-transition: all 500ms ease;
